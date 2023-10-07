@@ -4,7 +4,7 @@ l1=[2]
 s=2
 for i in range(1,n):
   if n==1:
-    break
+    print(s)
   else:
     x=2*(10**i)
     s+=x
